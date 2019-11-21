@@ -13,7 +13,7 @@ npm run build
 
 ## 使用框架
 - [vue全家桶](https://cn.vuejs.org)
-- [这里是 Ant Design 的 Vue 实现，开发和服务于企业级后台产品。](https://www.antdv.com/docs/vue/introduce-cn/)
+- [Ant Design 的 Vue 实现，开发和服务于企业级后台产品。](https://www.antdv.com/docs/vue/introduce-cn/)
 - [axios](https://github.com/axios/axios)
 - [normalize](http://necolas.github.io/normalize.css/)
 
